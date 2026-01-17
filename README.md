@@ -9,7 +9,5 @@ A RuneLite plugin for Deadman Mode with quality-of-life utilities.
 - Shows 5-minute countdown as an info box
 - Color changes to red when timer is low (configurable)
 
-### Combat Bracket Player Hiding
-- Hides players outside your combat bracket
 
 
