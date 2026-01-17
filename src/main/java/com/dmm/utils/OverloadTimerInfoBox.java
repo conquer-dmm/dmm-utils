@@ -4,8 +4,6 @@ import java.awt.Color;
 import java.awt.image.BufferedImage;
 import java.time.Instant;
 import java.time.temporal.ChronoUnit;
-import net.runelite.api.ItemID;
-import net.runelite.client.game.ItemManager;
 import net.runelite.client.ui.overlay.infobox.Timer;
 
 public class OverloadTimerInfoBox extends Timer
